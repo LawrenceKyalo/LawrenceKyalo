@@ -1,12 +1,12 @@
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="100"/>
+ <!--img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="100"/-->
 </div>
 
  <p align="center">
- <a href="https://twitter.com/_lawreezy">
+ <a href="https://twitter.com/_lawreezy" target='_blank'>
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/lawrence-kyalo/">
+ <a href="https://www.linkedin.com/in/lawrence-kyalo/" target='_blank'>
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
  </p>
