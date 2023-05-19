@@ -39,6 +39,8 @@ I'm interested in collaborating on API development.
 </br>
 
 ### :fire: My Stats :
+![github stats](https://github-readme-stats.vercel.app/api?username=LawrenceKyalol&show_icons=true&hide_border=true&prs_private=true&count_private=true&theme=dark)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=LawrenceKyalo&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LawrenceKyalo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
