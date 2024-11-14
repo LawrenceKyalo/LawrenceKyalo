@@ -24,7 +24,7 @@ Hello 👋
  </br>
 I'm interested in collaborating on API development.
 </p>
- - ⚡ Fun fact: I love playing board games 😄
+ - ⚡  😄
 </br>
 
 ### 🛠️: Skills:
