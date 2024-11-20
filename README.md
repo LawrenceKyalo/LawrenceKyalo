@@ -20,7 +20,7 @@
 ### About me!
 ---
 Hello 👋
-<p>I'm <b>Lawrence Kyalo, a Software Engineer with interest in Cloud Computing and Cyber Security.</b>
+<p>I'm <b>Lawrence Kyalo, a Software Engineer with interest in Cyber Security and Cloud Computing.</b>
  </br>
 I'm interested in collaborating on API development.
 </p>
