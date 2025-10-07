@@ -22,7 +22,7 @@
 Hello 👋
 <p>I'm <b>Lawrence Kyalo, a Software Engineer interested in Cyber Security and Cloud Computing.</b>
  </br>
-I'm interested in collaborating on API development.
+I'm interested in collaborating on API development and testing.
 </p>
  - ⚡  😄
 </br>
